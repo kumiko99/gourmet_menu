@@ -1,0 +1,70 @@
+main {
+    background-color: #ffffff;
+    padding: 5px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
+
+ol {
+    list-style-type: none;
+}
+
+.dish_menu {
+    display: flex;
+    text-align: center;
+}
+.dish_menu p {
+    margin: 0px;
+    line-height: 12px;
+    font-size: 13px;
+}
+
+
+h3 {
+    color: #cd5c5c;
+}
+
+header {
+    background-image: url(images/dinnermenu.jpg);
+    background-size: cover;
+    padding-top: 5px;
+    padding-bottom: 30px;
+    margin-bottom: 15px;
+
+}
+
+.header_text {
+    margin-top:30px;
+    padding:60px 0px 60px 60px;
+    
+}
+
+.header_text p{
+    font-size: 21px;
+    color: #ffffff;
+    margin:0 ;
+}
+.navi_menu {
+    width: 250px;
+}
+.main_box {
+    width: 700px;
+}
+
+.menu_box {
+    flex: 1;
+}
+
+
+.description {
+  width: 650px;
+}
+.menu_image {
+  float: left;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+.text{
+    clear: left;
+}

@@ -1,0 +1,44 @@
+main {
+    background-color: #ffffff;
+    padding: 5px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+header {
+    background-image: url(images/dinnermenu.jpg);
+    background-size: cover;
+    padding-top: 30px;
+    padding-bottom: 170px;
+    margin-bottom: 15px;
+
+}
+input[type="text"],
+input[type="email"] {
+    padding: 3px 10px;
+    border-radius: 5px;
+    border-style: solid;
+    border-width: 1px;
+}
+textarea {
+    border-radius: 5px;
+    border-style: solid;
+    padding: 15px 250px;
+}
+.mail,
+.message,
+.name,
+.check,
+.box {
+    line-height: 40px;
+}
+h2 {
+    font-weight: 200;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+input[type="submit"] {
+    background-color: #ffffff;
+    border-radius: 5px;
+}

@@ -1,0 +1,40 @@
+main {
+    background-color: #ffffff;
+    padding: 5px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+header {
+    background-image: url(images/dinnermenu.jpg);
+    background-size: cover;
+    padding-top: 30px;
+    padding-bottom: 170px;
+    margin-bottom: 15px;
+
+}
+table {
+    border-collapse: collapse;
+}
+dd {
+    margin-left: 0px;
+    border-bottom: solid 1px black ;
+    width: 500px;
+    line-height: 40px
+}
+dt {
+    border-bottom: solid 1px gray;
+    width: 350px;
+    line-height: 40px;
+    font-weight: bold;
+}
+h2 {
+    text-decoration: underline;
+    font-weight: 300;
+    font-size: 30px;
+    margin-top: 10px;
+}
+
+th {
+    text-align: left;
+}
